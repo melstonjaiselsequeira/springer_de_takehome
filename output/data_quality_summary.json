@@ -1,0 +1,33 @@
+{
+  "referral_rows_expected": 46,
+  "referral_rows_output": 46,
+  "referrals_without_matching_log": 39,
+  "unique_referral_ids_with_matching_log": 7,
+  "granted_log_rows_in_source": 17,
+  "granted_log_referral_ids_matching_source_referrals": 0,
+  "missing_values_by_output_column": {
+    "referral_details_id": 39,
+    "referral_id": 0,
+    "referral_source": 0,
+    "referral_source_category": 3,
+    "referral_at": 0,
+    "referrer_id": 13,
+    "referrer_name": 17,
+    "referrer_phone_number": 17,
+    "referrer_homeclub": 17,
+    "referee_id": 3,
+    "referee_name": 3,
+    "referee_phone": 0,
+    "referral_status": 0,
+    "num_reward_days": 0,
+    "transaction_id": 13,
+    "transaction_status": 32,
+    "transaction_at": 32,
+    "transaction_location": 32,
+    "transaction_type": 32,
+    "updated_at": 0,
+    "reward_granted_at": 46,
+    "is_business_logic_valid": 0
+  },
+  "note": "Source gaps are retained and reported; IDs/timestamps are never fabricated. The source data has no match for the grant-log records through the documented referral key."
+}

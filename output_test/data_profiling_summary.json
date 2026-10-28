@@ -1,0 +1,30 @@
+{
+  "lead_log": {
+    "rows": 8,
+    "columns": 7
+  },
+  "paid_transactions": {
+    "rows": 14,
+    "columns": 6
+  },
+  "referral_rewards": {
+    "rows": 3,
+    "columns": 4
+  },
+  "user_logs": {
+    "rows": 29,
+    "columns": 8
+  },
+  "user_referral_logs": {
+    "rows": 96,
+    "columns": 5
+  },
+  "user_referral_statuses": {
+    "rows": 3,
+    "columns": 3
+  },
+  "user_referrals": {
+    "rows": 46,
+    "columns": 11
+  }
+}

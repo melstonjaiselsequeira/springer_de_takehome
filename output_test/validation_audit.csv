@@ -1,0 +1,47 @@
+referral_id,is_business_logic_valid,validation_reason
+9331c8f144dad5a3b8e4a10467b4343a,True,Meets a valid scenario specified in the assignment
+6371079a92bcbf0c16ae5fcdf4fc9c10,False,No matching user_referral_logs record for referral_id; Successful referral has no positive reward
+a49105b02e690472452527663559d97a,False,No matching user_referral_logs record for referral_id; Paid post-referral transaction exists but no reward is assigned
+fcb804c8ff24e5b2974a7e965ebea5e8,False,No matching user_referral_logs record for referral_id; Successful referral has no positive reward
+9e9324e6fde29bb0d230654b38ccfdd4,False,no matching reward-granted log
+b6732d2ca0bc7acbc1b39cb8a04a96cd,True,Meets a valid scenario specified in the assignment
+835e990334fe52dec832043f19ddfd07,False,no matching reward-granted log
+6667436490ad3c794a8f5127772d4810,False,No matching user_referral_logs record for referral_id; Paid post-referral transaction exists but no reward is assigned
+d452feec722a5cabc03645bb089e2735,False,No matching user_referral_logs record for referral_id; Positive reward assigned to non-successful referral
+a95d6a6cefee850333bb2df257cb2f79,False,no matching reward-granted log
+6a585aa172036ab3cda99023016c7bff,False,No matching user_referral_logs record for referral_id; Paid post-referral transaction exists but no reward is assigned
+678d8990730250f8001c25a7da8f05d4,True,Meets a valid scenario specified in the assignment
+1f44ffca9257eefe62892409bce4b704,False,No matching user_referral_logs record for referral_id; Paid post-referral transaction exists but no reward is assigned
+7bf019d6eec0fc5f6485fb4d1968fe80,True,Meets a valid scenario specified in the assignment
+d0c11363fa2754323ed04ddbd0681bfb,True,Meets a valid scenario specified in the assignment
+41b807ac2774a0a29be25266d73fcf8b,True,Meets a valid scenario specified in the assignment
+2751eafffb38a7baf6c35f8bfb5e58e8,False,No matching user_referral_logs record for referral_id; Paid post-referral transaction exists but no reward is assigned
+2d07be15757d1ea6d85b96f4d46c4a37,True,Meets a valid scenario specified in the assignment
+d47843579ed8d4696b0abfbed179320f,True,Meets a valid scenario specified in the assignment
+90abb7a3fab6efe0f5017b11df3c2ffc,True,Meets a valid scenario specified in the assignment
+251cb17f5a0a266d4eec7f3f478ad245,True,Meets a valid scenario specified in the assignment
+79096365084a0d3f51ad9a0725f6708f,True,Meets a valid scenario specified in the assignment
+61717d106753428549731b63554d70a5,False,Positive reward assigned to non-successful referral
+3c2d868e7310b1690f1e7429d04b4c6b,False,transaction not PAID; transaction type not NEW; transaction not after referral; transaction not in same month; no matching reward-granted log
+bfdc4ba9d1e89cd5f19ed6d239b7b06a,False,No matching user_referral_logs record for referral_id; Transaction predates referral
+30a0cdbe9f518b9938bf9b9399f8b048,True,Meets a valid scenario specified in the assignment
+b7056002e75cd4b2583d8e8ee401e230,False,No matching user_referral_logs record for referral_id; Transaction predates referral
+3c2d4fcbb8d1bf5e82407fbae76b9917,False,No matching user_referral_logs record for referral_id; Paid post-referral transaction exists but no reward is assigned
+8882f8f02e658bd06627f9e0aedf9325,False,No matching user_referral_logs record for referral_id; Positive reward assigned to non-successful referral; Positive reward without transaction ID
+e066aaa1b0384cd538e5590be41ce325,False,No matching user_referral_logs record for referral_id; Transaction predates referral
+ca06593605d62bc27dacb93533278f44,True,Meets a valid scenario specified in the assignment
+70ab7f982d360286a79c8a3050f5506d,True,Meets a valid scenario specified in the assignment
+24a62000845ed37ef32e5f5b697480c1,False,No matching user_referral_logs record for referral_id; Paid post-referral transaction exists but no reward is assigned
+7a03e01e0c17b2322845242a796adb5e,False,transaction not PAID; transaction type not NEW; transaction not after referral; transaction not in same month; no matching reward-granted log
+636f4143f3bbe2a832d3f8e3c7b7d848,True,Meets a valid scenario specified in the assignment
+e6d2c72313e5d1a77ab02e20e3ba4ecb,True,Meets a valid scenario specified in the assignment
+9aa929850a37a7071f8ea0cd62fcfb07,True,Meets a valid scenario specified in the assignment
+4df44c256adf2c9cbb3655104f8dc395,True,Meets a valid scenario specified in the assignment
+e3a55877243e31f6196748c21f7e2982,True,Meets a valid scenario specified in the assignment
+24e66dee053da38b3a19bfb9e91e8faf,True,Meets a valid scenario specified in the assignment
+c848ba4844ae65f2420d373efc5908c9,True,Meets a valid scenario specified in the assignment
+e4b21d1dcdb37955b9e46b9357c7d0fe,False,No matching user_referral_logs record for referral_id; Successful referral has no positive reward
+e74f3e7cae96a2c81a7970ec3a8ccb82,True,Meets a valid scenario specified in the assignment
+962788593e04380982da789b978dcad6,True,Meets a valid scenario specified in the assignment
+274ef52f2f70dbb3afa5c94bcbff41cb,True,Meets a valid scenario specified in the assignment
+c98844d50327681160b17baa8756984a,False,No matching user_referral_logs record for referral_id; Paid post-referral transaction exists but no reward is assigned
